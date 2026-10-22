@@ -2,6 +2,8 @@
 
 This repo is a test harness for the 20 questions in the linked practice sheets. It gives you the models, deterministic database state, and failing tests; you implement the controller/middleware code.
 
+> **Important:** The actual answers are not implemented in this repository. The tests will remain red and return HTTP 501 until you replace each stub with your solution.
+
 ## Setup
 
 ```bash
